@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Organization App\\OrganizationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C18870D6-E14E-4ECF-8C91-B231C5EF7621}|OrganizationApp\\OrganizationApp.csproj|c:\\development\\organization app\\organizationapp\\organizationapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18870D6-E14E-4ECF-8C91-B231C5EF7621}|OrganizationApp\\OrganizationApp.csproj|solutionrelative:organizationapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18870D6-E14E-4ECF-8C91-B231C5EF7621}|OrganizationApp\\OrganizationApp.csproj|c:\\development\\organization app\\organizationapp\\organizationapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C18870D6-E14E-4ECF-8C91-B231C5EF7621}|OrganizationApp\\OrganizationApp.csproj|solutionrelative:organizationapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18870D6-E14E-4ECF-8C91-B231C5EF7621}|OrganizationApp\\OrganizationApp.csproj|c:\\development\\organization app\\organizationapp\\organizationapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C18870D6-E14E-4ECF-8C91-B231C5EF7621}|OrganizationApp\\OrganizationApp.csproj|solutionrelative:organizationapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Development\\Organization App\\OrganizationApp\\OrganizationApp\\App.xaml",
+              "RelativeDocumentMoniker": "OrganizationApp\\App.xaml",
+              "ToolTip": "C:\\Development\\Organization App\\OrganizationApp\\OrganizationApp\\App.xaml",
+              "RelativeToolTip": "OrganizationApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T18:32:27.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Development\\Organization App\\OrganizationApp\\OrganizationApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OrganizationApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Development\\Organization App\\OrganizationApp\\OrganizationApp\\MainWindow.xaml",
+              "RelativeToolTip": "OrganizationApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T18:04:14.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Development\\Organization App\\OrganizationApp\\OrganizationApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OrganizationApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Development\\Organization App\\OrganizationApp\\OrganizationApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OrganizationApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:04:12.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
